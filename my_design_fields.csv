@@ -1,0 +1,77 @@
+Refs,Description,Height,Manufacturer_Name,Manufacturer_Part_Number,Mouser Part Number,Mouser Price/Stock,datasheet,footprint,value
+BT1,,,,,,,~,footprints:xt60_wire holes,Battery_Cell
+BT2,,,,,,,~,footprints:xt60_wire holes,Battery_Cell
+C1,,,,,,,~,KiCad/kicad-footprints/Capacitor_SMD.pretty:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,0.1uF
+C10,,,,,,,~,KiCad/kicad-footprints/Capacitor_SMD.pretty:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder,10uF
+C11,,,,,,,~,KiCad/kicad-footprints/Capacitor_SMD.pretty:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder,0.33uF
+C12,,,,,,,~,KiCad/kicad-footprints/Capacitor_SMD.pretty:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder,0.33uF
+C13,,,,,,,~,KiCad/kicad-footprints/Capacitor_SMD.pretty:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,0.1uF
+C14,,,,,,,~,KiCad/kicad-footprints/Capacitor_SMD.pretty:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,0.1uF
+C15,,,,,,,~,KiCad/kicad-footprints/Capacitor_SMD.pretty:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,0.1uF
+C16,,,,,,,~,KiCad/kicad-footprints/Capacitor_SMD.pretty:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,0.1uF
+C17,,,,,,,~,KiCad/kicad-footprints/Capacitor_SMD.pretty:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,0.01uF
+C18,,,,,,,~,KiCad/kicad-footprints/Capacitor_SMD.pretty:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,0.01uF
+C19,,,,,,,~,KiCad/kicad-footprints/Capacitor_SMD.pretty:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,0.01uF
+C2,,,,,,,~,KiCad/kicad-footprints/Capacitor_SMD.pretty:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,0.1uF
+C20,,,,,,,~,KiCad/kicad-footprints/Capacitor_SMD.pretty:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,0.01uF
+C21,,,,,,,~,KiCad/kicad-footprints/Capacitor_SMD.pretty:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,0.1uF
+C22,,,,,,,~,KiCad/kicad-footprints/Capacitor_SMD.pretty:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,0.1uF
+C23,,,,,,,~,KiCad/kicad-footprints/Capacitor_SMD.pretty:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,1uF
+C24,,,,,,,~,KiCad/kicad-footprints/Capacitor_SMD.pretty:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,1uF
+C25,,,,,,,~,KiCad/kicad-footprints/Capacitor_SMD.pretty:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,1uF
+C26,,,,,,,~,KiCad/kicad-footprints/Capacitor_SMD.pretty:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,1uF
+C27,,,,,,,~,KiCad/kicad-footprints/Capacitor_SMD.pretty:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,0.1uF
+C28,,,,,,,~,KiCad/kicad-footprints/Capacitor_SMD.pretty:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,0.1uF
+C29,,,,,,,~,KiCad/kicad-footprints/Capacitor_SMD.pretty:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,0.01uF
+C3,,,,,,,~,KiCad/kicad-footprints/Capacitor_SMD.pretty:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder,2.2uF
+C30,,,,,,,~,KiCad/kicad-footprints/Capacitor_SMD.pretty:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,0.01uF
+C31,,,,,,,~,KiCad/kicad-footprints/Capacitor_SMD.pretty:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,0.01uF
+C32,,,,,,,~,KiCad/kicad-footprints/Capacitor_SMD.pretty:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,0.01uF
+C33,,,,,,,~,KiCad/kicad-footprints/Capacitor_SMD.pretty:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,0.1uF
+C34,,,,,,,~,KiCad/kicad-footprints/Capacitor_SMD.pretty:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,1uF
+C35,,,,,,,~,KiCad/kicad-footprints/Capacitor_SMD.pretty:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,0.1uF
+C36,,,,,,,~,KiCad/kicad-footprints/Capacitor_SMD.pretty:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,0.1uF
+C37,,,,,,,~,KiCad/kicad-footprints/Capacitor_SMD.pretty:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,0.1uF
+C38,,,,,,,~,KiCad/kicad-footprints/Capacitor_SMD.pretty:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,0.1uF
+C39,,,,,,,~,KiCad/kicad-footprints/Capacitor_SMD.pretty:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,0.1uF
+C4,,,,,,,~,KiCad/kicad-footprints/Capacitor_SMD.pretty:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder,2.2uF
+C40,,,,,,,~,KiCad/kicad-footprints/Capacitor_SMD.pretty:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,0.1uF
+C41,,,,,,,~,KiCad/kicad-footprints/Capacitor_SMD.pretty:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder,10uF
+C42,,,,,,,~,KiCad/kicad-footprints/Capacitor_SMD.pretty:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder,10uF
+C43,,,,,,,~,KiCad/kicad-footprints/Capacitor_SMD.pretty:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder,10uF
+C44,,,,,,,~,KiCad/kicad-footprints/Capacitor_SMD.pretty:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder,10uF
+C45,,,,,,,~,KiCad/kicad-footprints/Capacitor_SMD.pretty:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,0.1uF
+C46,,,,,,,~,KiCad/kicad-footprints/Capacitor_SMD.pretty:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,0.1uF
+C47,,,,,,,~,KiCad/kicad-footprints/Capacitor_SMD.pretty:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,0.1uF
+C48,,,,,,,~,KiCad/kicad-footprints/Capacitor_SMD.pretty:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,0.1uF
+C49,,,,,,,~,KiCad/kicad-footprints/Capacitor_SMD.pretty:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,0.1uF
+C5,,,,,,,~,KiCad/kicad-footprints/Capacitor_SMD.pretty:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,0.1uF
+C50,,,,,,,~,KiCad/kicad-footprints/Capacitor_SMD.pretty:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,1uF
+C51,,,,,,,~,KiCad/kicad-footprints/Capacitor_SMD.pretty:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,0.01uF
+C52,,,,,,,~,KiCad/kicad-footprints/Capacitor_SMD.pretty:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,0.01uF
+C53,,,,,,,~,KiCad/kicad-footprints/Capacitor_SMD.pretty:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,0.01uF
+C54,,,,,,,~,KiCad/kicad-footprints/Capacitor_SMD.pretty:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,0.1uF
+C55,,,,,,,~,KiCad/kicad-footprints/Capacitor_SMD.pretty:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,0.1uF
+C6,,,,,,,~,KiCad/kicad-footprints/Capacitor_SMD.pretty:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,0.1uF
+C7,,,,,,,~,KiCad/kicad-footprints/Capacitor_SMD.pretty:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder,10uF
+C8,,,,,,,~,KiCad/kicad-footprints/Capacitor_SMD.pretty:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder,10uF
+C9,,,,,,,~,KiCad/kicad-footprints/Capacitor_SMD.pretty:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder,10uF
+D1,,,,,,,~,digikey/digikey-kicad-library/digikey-footprints.pretty:SOD-523, 
+D2,,,,,,,~,digikey/digikey-kicad-library/digikey-footprints.pretty:SOD-523, 
+IC1,"LTC6652AHMS8-2.5#PBF, Voltage Reference 2.5V 0.05% 5mA 13.2 V max. 8-Pin MSOP",1.1,Linear Technology,LTC6652AHMS8-2.5#PBF,,,http://cds.linear.com/docs/en/datasheet/6652fe.pdf,SOP65P490X110-8N,LTC6652AHMS8-2.5#PBF
+IC2,"LTC6652AHMS8-1.25#PBF, Voltage Reference 1.25V 0.05% 5mA 13.2 V max. 8-Pin MSOP",1.1,Linear Technology,LTC6652AHMS8-1.25#PBF,,,http://cds.linear.com/docs/en/datasheet/6652fe.pdf,SOP65P490X110-8N,LTC6652AHMS8-1.25#PBF
+IC3,Instrumentation Amplifiers Low Noise Low Gain Drift,1.75,Analog Devices,AD8428BRZ-RL,584-AD8428BRZ-R,https://www.mouser.com/Search/Refine.aspx?Keyword=584-AD8428BRZ-R,https://componentsearchengine.com/Datasheets/1/AD8428BRZ-RL.pdf,KiCad/kicad-footprints/Package_SO.pretty:SOIC-8_3.9x4.9mm_P1.27mm,AD8428BRZ-RL
+IC4,Instrumentation Amplifiers Low Noise Low Gain Drift,1.75,Analog Devices,AD8428BRZ-RL,584-AD8428BRZ-R,https://www.mouser.com/Search/Refine.aspx?Keyword=584-AD8428BRZ-R,https://componentsearchengine.com/Datasheets/1/AD8428BRZ-RL.pdf,KiCad/kicad-footprints/Package_SO.pretty:SOIC-8_3.9x4.9mm_P1.27mm,AD8428BRZ-RL
+IC5,Instrumentation Amplifiers Low Noise Low Gain Drift,1.75,Analog Devices,AD8428BRZ-RL,584-AD8428BRZ-R,https://www.mouser.com/Search/Refine.aspx?Keyword=584-AD8428BRZ-R,https://componentsearchengine.com/Datasheets/1/AD8428BRZ-RL.pdf,KiCad/kicad-footprints/Package_SO.pretty:SOIC-8_3.9x4.9mm_P1.27mm,AD8428BRZ-RL
+IC6,Instrumentation Amplifiers Low Noise Low Gain Drift,1.75,Analog Devices,AD8428BRZ-RL,584-AD8428BRZ-R,https://www.mouser.com/Search/Refine.aspx?Keyword=584-AD8428BRZ-R,https://componentsearchengine.com/Datasheets/1/AD8428BRZ-RL.pdf,KiCad/kicad-footprints/Package_SO.pretty:SOIC-8_3.9x4.9mm_P1.27mm,AD8428BRZ-RL
+IC7,Analog-in-Digital-Wandler - ADC 32 Bit SD-ADC 10ksps 2 Diff/4 SE Input,1.2,Analog Devices,AD7177-2BRUZ,584-AD7177-2BRUZ,https://www.mouser.com/Search/Refine.aspx?Keyword=584-AD7177-2BRUZ,https://componentsearchengine.com/Datasheets/1/AD7177-2BRUZ.pdf,rohbotics/IPC7351-Nominal.pretty:SOP65P640X120-24N,AD7177-2BRUZ
+IC8,"Instrumentation Amp +/-5.5V/11V R-R SSOP Linear Technology LTC6915HGN#PBF Instrumentation Amplifier,  /-10uV Offset 200kHz GBW, CMMR 85dB, 2.7 V, 16-Pin SSOP",1.75,Linear Technology,LTC6915HGN#PBF,584-LTC6915HGN#PBF,https://www.mouser.com/Search/Refine.aspx?Keyword=584-LTC6915HGN%23PBF,https://componentsearchengine.com/Datasheets/1/LTC6915HGN#PBF.pdf,KiCad/kicad-footprints/Package_SO.pretty:SSOP-16_3.9x4.9mm_P0.635mm,LTC6915HGN#PBF
+J1,,,,,,,~,,Conn_01x09_Female
+R1,,,,,,,~,,2.5M
+R2,,,,,,,~,,100k
+R3,,,,,,,~,,100k
+TC1,,,,,,,~,, 
+TH1,,,,,,,~,,100k
+TH2,,,,,,,~,,100k
+U1,,,,,,,http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf,,L7805
+U2,,,,,,,http://www.st.com/content/ccc/resource/technical/document/datasheet/c9/16/86/41/c7/2b/45/f2/CD00000450.pdf/files/CD00000450.pdf/jcr:content/translations/en.CD00000450.pdf,,L7905

@@ -1,0 +1,1278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>/home/twoninefour/hdd/pengli/nvmeter/nvmeter.sch</source>
+    <date>Wed 09 Oct 2019 09:08:40 AM CDT</date>
+    <tool>Eeschema 5.0.2-bee76a0~70~ubuntu18.04.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>nvmeter.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="IC3">
+      <value>AD8428BRZ-RL</value>
+      <footprint>SOIC127P600X175-8N</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/AD8428BRZ-RL.pdf</datasheet>
+      <fields>
+        <field name="Description">Instrumentation Amplifiers Low Noise Low Gain Drift</field>
+        <field name="Height">1.75</field>
+        <field name="Manufacturer_Name">Analog Devices</field>
+        <field name="Manufacturer_Part_Number">AD8428BRZ-RL</field>
+        <field name="Mouser Part Number">584-AD8428BRZ-R</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=584-AD8428BRZ-R</field>
+      </fields>
+      <libsource lib="AD8428BRZ-RL" part="AD8428BRZ-RL" description="Instrumentation Amplifiers Low Noise Low Gain Drift"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D9C257C</tstamp>
+    </comp>
+    <comp ref="TC1">
+      <value> </value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Thermocouple" description="Thermocouple"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D9C2719</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>2.5M</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D9C4409</tstamp>
+    </comp>
+    <comp ref="C14">
+      <value>0.1uF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D9C4C13</tstamp>
+    </comp>
+    <comp ref="C8">
+      <value>10uF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D9C4D5B</tstamp>
+    </comp>
+    <comp ref="BT2">
+      <value>Battery_Cell</value>
+      <footprint>footprints:xt60_wire holes</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Battery_Cell" description="Single-cell battery"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D9C65A4</tstamp>
+    </comp>
+    <comp ref="BT1">
+      <value>Battery_Cell</value>
+      <footprint>footprints:xt60_wire holes</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Battery_Cell" description="Single-cell battery"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D9C67D4</tstamp>
+    </comp>
+    <comp ref="IC7">
+      <value>AD7177-2BRUZ</value>
+      <footprint>SOP65P640X120-24N</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/AD7177-2BRUZ.pdf</datasheet>
+      <fields>
+        <field name="Description">Analog-in-Digital-Wandler - ADC 32 Bit SD-ADC 10ksps 2 Diff/4 SE Input</field>
+        <field name="Height">1.2</field>
+        <field name="Manufacturer_Name">Analog Devices</field>
+        <field name="Manufacturer_Part_Number">AD7177-2BRUZ</field>
+        <field name="Mouser Part Number">584-AD7177-2BRUZ</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=584-AD7177-2BRUZ</field>
+      </fields>
+      <libsource lib="AD7177-2BRUZ" part="AD7177-2BRUZ" description="Analog-in-Digital-Wandler - ADC 32 Bit SD-ADC 10ksps 2 Diff/4 SE Input"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D9C7F1D</tstamp>
+    </comp>
+    <comp ref="IC8">
+      <value>LTC6915HGN#PBF</value>
+      <footprint>SOP64P601X175-16N</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/LTC6915HGN#PBF.pdf</datasheet>
+      <fields>
+        <field name="Description">Instrumentation Amp +/-5.5V/11V R-R SSOP Linear Technology LTC6915HGN#PBF Instrumentation Amplifier,  /-10uV Offset 200kHz GBW, CMMR 85dB, 2.7 V, 16-Pin SSOP</field>
+        <field name="Height">1.75</field>
+        <field name="Manufacturer_Name">Linear Technology</field>
+        <field name="Manufacturer_Part_Number">LTC6915HGN#PBF</field>
+        <field name="Mouser Part Number">584-LTC6915HGN#PBF</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=584-LTC6915HGN%23PBF</field>
+      </fields>
+      <libsource lib="LTC6915HGN#PBF" part="LTC6915HGN#PBF" description="Instrumentation Amp +/-5.5V/11V R-R SSOP Linear Technology LTC6915HGN#PBF Instrumentation Amplifier,  /-10uV Offset 200kHz GBW, CMMR 85dB, 2.7 V, 16-Pin SSOP"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D9C9753</tstamp>
+    </comp>
+    <comp ref="C54">
+      <value>0.1uF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D9CBC12</tstamp>
+    </comp>
+    <comp ref="C40">
+      <value>0.1uF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D9CCD20</tstamp>
+    </comp>
+    <comp ref="C34">
+      <value>1uF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D9D3997</tstamp>
+    </comp>
+    <comp ref="C33">
+      <value>0.1uF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D9D3ABC</tstamp>
+    </comp>
+    <comp ref="C35">
+      <value>0.1uF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D9E261D</tstamp>
+    </comp>
+    <comp ref="C49">
+      <value>0.1uF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D9EB7D3</tstamp>
+    </comp>
+    <comp ref="C50">
+      <value>1uF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D9EB870</tstamp>
+    </comp>
+    <comp ref="C48">
+      <value>0.1uF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D9EE6D0</tstamp>
+    </comp>
+    <comp ref="C52">
+      <value>0.01uF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D9D75D9</tstamp>
+    </comp>
+    <comp ref="C51">
+      <value>0.01uF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D9D7854</tstamp>
+    </comp>
+    <comp ref="C53">
+      <value>0.01uF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D9D78FC</tstamp>
+    </comp>
+    <comp ref="TH1">
+      <value>100k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Thermistor_NTC_US" description="Temperature dependent resistor, negative temperature coefficient, US symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D9DB508</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>100k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D9DDB22</tstamp>
+    </comp>
+    <comp ref="TH2">
+      <value>100k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Thermistor_NTC_US" description="Temperature dependent resistor, negative temperature coefficient, US symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D9DE692</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>100k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D9DE699</tstamp>
+    </comp>
+    <comp ref="C12">
+      <value>0.33uF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D9E85BA</tstamp>
+    </comp>
+    <comp ref="C22">
+      <value>0.1uF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D9E86A5</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>L7805</value>
+      <datasheet>http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf</datasheet>
+      <libsource lib="Regulator_Linear" part="L7805" description="Positive 1.5A 35V Linear Regulator, Fixed Output 5V, TO-220/TO-263/TO-252"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D9EECF1</tstamp>
+    </comp>
+    <comp ref="C11">
+      <value>0.33uF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D9F42A5</tstamp>
+    </comp>
+    <comp ref="C21">
+      <value>0.1uF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D9F4415</tstamp>
+    </comp>
+    <comp ref="C25">
+      <value>1uF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D9F4547</tstamp>
+    </comp>
+    <comp ref="C26">
+      <value>1uF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D9F4626</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>0.1uF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DA062F0</tstamp>
+    </comp>
+    <comp ref="C55">
+      <value>0.1uF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DA0BFD2</tstamp>
+    </comp>
+    <comp ref="C47">
+      <value>0.1uF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DA0C084</tstamp>
+    </comp>
+    <comp ref="C18">
+      <value>0.01uF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D9DDF28</tstamp>
+    </comp>
+    <comp ref="C13">
+      <value>0.1uF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D9E61DF</tstamp>
+    </comp>
+    <comp ref="C7">
+      <value>10uF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D9E61E6</tstamp>
+    </comp>
+    <comp ref="C17">
+      <value>0.01uF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D9E61F1</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>0.1uF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D9C3141</tstamp>
+    </comp>
+    <comp ref="C28">
+      <value>0.1uF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D9E8CF2</tstamp>
+    </comp>
+    <comp ref="C24">
+      <value>1uF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D9C2F93</tstamp>
+    </comp>
+    <comp ref="IC2">
+      <value>LTC6652AHMS8-1.25#PBF</value>
+      <footprint>SOP65P490X110-8N</footprint>
+      <datasheet>http://cds.linear.com/docs/en/datasheet/6652fe.pdf</datasheet>
+      <fields>
+        <field name="Description">LTC6652AHMS8-1.25#PBF, Voltage Reference 1.25V 0.05% 5mA 13.2 V max. 8-Pin MSOP</field>
+        <field name="Height">1.1</field>
+        <field name="Manufacturer_Name">Linear Technology</field>
+        <field name="Manufacturer_Part_Number">LTC6652AHMS8-1.25#PBF</field>
+      </fields>
+      <libsource lib="LTC6652AHMS8-1.25#PBF" part="LTC6652AHMS8-1.25#PBF" description="LTC6652AHMS8-1.25#PBF, Voltage Reference 1.25V 0.05% 5mA 13.2 V max. 8-Pin MSOP"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D9C2DF3</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>0.1uF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DA42FBF</tstamp>
+    </comp>
+    <comp ref="C27">
+      <value>0.1uF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DA42FC9</tstamp>
+    </comp>
+    <comp ref="C23">
+      <value>1uF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DA42FD4</tstamp>
+    </comp>
+    <comp ref="IC1">
+      <value>LTC6652AHMS8-2.5#PBF</value>
+      <footprint>SOP65P490X110-8N</footprint>
+      <datasheet>http://cds.linear.com/docs/en/datasheet/6652fe.pdf</datasheet>
+      <fields>
+        <field name="Description">LTC6652AHMS8-2.5#PBF, Voltage Reference 2.5V 0.05% 5mA 13.2 V max. 8-Pin MSOP</field>
+        <field name="Height">1.1</field>
+        <field name="Manufacturer_Name">Linear Technology</field>
+        <field name="Manufacturer_Part_Number">LTC6652AHMS8-2.5#PBF</field>
+      </fields>
+      <libsource lib="LTC6652AHMS8-2.5#PBF" part="LTC6652AHMS8-2.5#PBF" description="LTC6652AHMS8-2.5#PBF, Voltage Reference 2.5V 0.05% 5mA 13.2 V max. 8-Pin MSOP"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DA47519</tstamp>
+    </comp>
+    <comp ref="U2">
+      <value>L7905</value>
+      <datasheet>http://www.st.com/content/ccc/resource/technical/document/datasheet/c9/16/86/41/c7/2b/45/f2/CD00000450.pdf/files/CD00000450.pdf/jcr:content/translations/en.CD00000450.pdf</datasheet>
+      <libsource lib="Regulator_Linear" part="L7905" description="Negative 1.5A 35V Linear Regulator, Fixed Output -5V, TO-220/TO-263"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DA5F279</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>2.2uF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DA67F73</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>2.2uF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DA68032</tstamp>
+    </comp>
+    <comp ref="IC4">
+      <value>AD8428BRZ-RL</value>
+      <footprint>SOIC127P600X175-8N</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/AD8428BRZ-RL.pdf</datasheet>
+      <fields>
+        <field name="Description">Instrumentation Amplifiers Low Noise Low Gain Drift</field>
+        <field name="Height">1.75</field>
+        <field name="Manufacturer_Name">Analog Devices</field>
+        <field name="Manufacturer_Part_Number">AD8428BRZ-RL</field>
+        <field name="Mouser Part Number">584-AD8428BRZ-R</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=584-AD8428BRZ-R</field>
+      </fields>
+      <libsource lib="AD8428BRZ-RL" part="AD8428BRZ-RL" description="Instrumentation Amplifiers Low Noise Low Gain Drift"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DAFFD62</tstamp>
+    </comp>
+    <comp ref="C16">
+      <value>0.1uF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DAFFD69</tstamp>
+    </comp>
+    <comp ref="C10">
+      <value>10uF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DAFFD70</tstamp>
+    </comp>
+    <comp ref="C6">
+      <value>0.1uF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DAFFD7B</tstamp>
+    </comp>
+    <comp ref="C20">
+      <value>0.01uF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DAFFD84</tstamp>
+    </comp>
+    <comp ref="C15">
+      <value>0.1uF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DAFFD8F</tstamp>
+    </comp>
+    <comp ref="C9">
+      <value>10uF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DAFFD96</tstamp>
+    </comp>
+    <comp ref="C19">
+      <value>0.01uF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DAFFDA1</tstamp>
+    </comp>
+    <comp ref="IC5">
+      <value>AD8428BRZ-RL</value>
+      <footprint>SOIC127P600X175-8N</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/AD8428BRZ-RL.pdf</datasheet>
+      <fields>
+        <field name="Description">Instrumentation Amplifiers Low Noise Low Gain Drift</field>
+        <field name="Height">1.75</field>
+        <field name="Manufacturer_Name">Analog Devices</field>
+        <field name="Manufacturer_Part_Number">AD8428BRZ-RL</field>
+        <field name="Mouser Part Number">584-AD8428BRZ-R</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=584-AD8428BRZ-R</field>
+      </fields>
+      <libsource lib="AD8428BRZ-RL" part="AD8428BRZ-RL" description="Instrumentation Amplifiers Low Noise Low Gain Drift"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DB29A4F</tstamp>
+    </comp>
+    <comp ref="C37">
+      <value>0.1uF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DB29A65</tstamp>
+    </comp>
+    <comp ref="C42">
+      <value>10uF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DB29A6C</tstamp>
+    </comp>
+    <comp ref="C45">
+      <value>0.1uF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DB29A77</tstamp>
+    </comp>
+    <comp ref="C30">
+      <value>0.01uF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DB29A80</tstamp>
+    </comp>
+    <comp ref="C36">
+      <value>0.1uF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DB29A8B</tstamp>
+    </comp>
+    <comp ref="C41">
+      <value>10uF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DB29A92</tstamp>
+    </comp>
+    <comp ref="C29">
+      <value>0.01uF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DB29A9D</tstamp>
+    </comp>
+    <comp ref="IC6">
+      <value>AD8428BRZ-RL</value>
+      <footprint>SOIC127P600X175-8N</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/AD8428BRZ-RL.pdf</datasheet>
+      <fields>
+        <field name="Description">Instrumentation Amplifiers Low Noise Low Gain Drift</field>
+        <field name="Height">1.75</field>
+        <field name="Manufacturer_Name">Analog Devices</field>
+        <field name="Manufacturer_Part_Number">AD8428BRZ-RL</field>
+        <field name="Mouser Part Number">584-AD8428BRZ-R</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=584-AD8428BRZ-R</field>
+      </fields>
+      <libsource lib="AD8428BRZ-RL" part="AD8428BRZ-RL" description="Instrumentation Amplifiers Low Noise Low Gain Drift"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DB29AB9</tstamp>
+    </comp>
+    <comp ref="C39">
+      <value>0.1uF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DB29AC0</tstamp>
+    </comp>
+    <comp ref="C44">
+      <value>10uF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DB29AC7</tstamp>
+    </comp>
+    <comp ref="C46">
+      <value>0.1uF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DB29AD2</tstamp>
+    </comp>
+    <comp ref="C32">
+      <value>0.01uF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DB29ADB</tstamp>
+    </comp>
+    <comp ref="C38">
+      <value>0.1uF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DB29AE6</tstamp>
+    </comp>
+    <comp ref="C43">
+      <value>10uF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DB29AED</tstamp>
+    </comp>
+    <comp ref="C31">
+      <value>0.01uF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DB29AF8</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x09_Female</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x09_Female" description="Generic connector, single row, 01x09, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DBCE26E</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="AD7177-2BRUZ" part="AD7177-2BRUZ">
+      <description>Analog-in-Digital-Wandler - ADC 32 Bit SD-ADC 10ksps 2 Diff/4 SE Input</description>
+      <docs>https://componentsearchengine.com/Datasheets/1/AD7177-2BRUZ.pdf</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">AD7177-2BRUZ</field>
+        <field name="Footprint">SOP65P640X120-24N</field>
+        <field name="Datasheet">https://componentsearchengine.com/Datasheets/1/AD7177-2BRUZ.pdf</field>
+        <field name="Description">Analog-in-Digital-Wandler - ADC 32 Bit SD-ADC 10ksps 2 Diff/4 SE Input</field>
+        <field name="Height">1.2</field>
+        <field name="Mouser Part Number">584-AD7177-2BRUZ</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=584-AD7177-2BRUZ</field>
+        <field name="Manufacturer_Name">Analog Devices</field>
+        <field name="Manufacturer_Part_Number">AD7177-2BRUZ</field>
+      </fields>
+      <pins>
+        <pin num="1" name="AIN4" type="BiDi"/>
+        <pin num="2" name="REF-" type="BiDi"/>
+        <pin num="3" name="REF+" type="BiDi"/>
+        <pin num="4" name="REFOUT" type="BiDi"/>
+        <pin num="5" name="REGCAPA" type="BiDi"/>
+        <pin num="6" name="AVSS" type="BiDi"/>
+        <pin num="7" name="AVDD1" type="BiDi"/>
+        <pin num="8" name="AVDD2" type="BiDi"/>
+        <pin num="9" name="XTAL1" type="BiDi"/>
+        <pin num="10" name="XTAL2/CLKIO" type="BiDi"/>
+        <pin num="11" name="DOUT/~RDY" type="BiDi"/>
+        <pin num="12" name="DIN" type="BiDi"/>
+        <pin num="13" name="SCLK" type="BiDi"/>
+        <pin num="14" name="~CS" type="BiDi"/>
+        <pin num="15" name="~SYNC~/~ERROR" type="BiDi"/>
+        <pin num="16" name="IOVDD" type="BiDi"/>
+        <pin num="17" name="DGND" type="BiDi"/>
+        <pin num="18" name="REGCAPD" type="BiDi"/>
+        <pin num="19" name="GPIO0" type="BiDi"/>
+        <pin num="20" name="GPIO1" type="BiDi"/>
+        <pin num="21" name="AIN0" type="BiDi"/>
+        <pin num="22" name="AIN1" type="BiDi"/>
+        <pin num="23" name="AIN2" type="BiDi"/>
+        <pin num="24" name="AIN3" type="BiDi"/>
+      </pins>
+    </libpart>
+    <libpart lib="AD8428BRZ-RL" part="AD8428BRZ-RL">
+      <description>Instrumentation Amplifiers Low Noise Low Gain Drift</description>
+      <docs>https://componentsearchengine.com/Datasheets/1/AD8428BRZ-RL.pdf</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">AD8428BRZ-RL</field>
+        <field name="Footprint">SOIC127P600X175-8N</field>
+        <field name="Datasheet">https://componentsearchengine.com/Datasheets/1/AD8428BRZ-RL.pdf</field>
+        <field name="Description">Instrumentation Amplifiers Low Noise Low Gain Drift</field>
+        <field name="Height">1.75</field>
+        <field name="Mouser Part Number">584-AD8428BRZ-R</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=584-AD8428BRZ-R</field>
+        <field name="Manufacturer_Name">Analog Devices</field>
+        <field name="Manufacturer_Part_Number">AD8428BRZ-RL</field>
+      </fields>
+      <pins>
+        <pin num="1" name="-IN" type="BiDi"/>
+        <pin num="2" name="-FIL" type="BiDi"/>
+        <pin num="3" name="+FIL" type="BiDi"/>
+        <pin num="4" name="+IN" type="BiDi"/>
+        <pin num="5" name="-VS" type="BiDi"/>
+        <pin num="6" name="REF" type="BiDi"/>
+        <pin num="7" name="OUT" type="BiDi"/>
+        <pin num="8" name="+VS" type="BiDi"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x09_Female">
+      <description>Generic connector, single row, 01x09, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x09_Female</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Battery_Cell">
+      <description>Single-cell battery</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">BT</field>
+        <field name="Value">Battery_Cell</field>
+      </fields>
+      <pins>
+        <pin num="1" name="+" type="passive"/>
+        <pin num="2" name="-" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_US">
+      <description>Resistor, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_US</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Thermistor_NTC_US">
+      <description>Temperature dependent resistor, negative temperature coefficient, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*NTC*</fp>
+        <fp>*Thermistor*</fp>
+        <fp>PIN?ARRAY*</fp>
+        <fp>bornier*</fp>
+        <fp>*Terminal?Block*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TH</field>
+        <field name="Value">Thermistor_NTC_US</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Thermocouple">
+      <description>Thermocouple</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>PIN?ARRAY*</fp>
+        <fp>bornier*</fp>
+        <fp>*Terminal?Block*</fp>
+        <fp>Thermo*Couple*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TC</field>
+        <field name="Value">Thermocouple</field>
+      </fields>
+      <pins>
+        <pin num="1" name="+" type="passive"/>
+        <pin num="2" name="-" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="LTC6652AHMS8-1.25#PBF" part="LTC6652AHMS8-1.25#PBF">
+      <description>LTC6652AHMS8-1.25#PBF, Voltage Reference 1.25V 0.05% 5mA 13.2 V max. 8-Pin MSOP</description>
+      <docs>http://cds.linear.com/docs/en/datasheet/6652fe.pdf</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">LTC6652AHMS8-1.25#PBF</field>
+        <field name="Footprint">SOP65P490X110-8N</field>
+        <field name="Datasheet">http://cds.linear.com/docs/en/datasheet/6652fe.pdf</field>
+        <field name="Description">LTC6652AHMS8-1.25#PBF, Voltage Reference 1.25V 0.05% 5mA 13.2 V max. 8-Pin MSOP</field>
+        <field name="Height">1.1</field>
+        <field name="Manufacturer_Name">Linear Technology</field>
+        <field name="Manufacturer_Part_Number">LTC6652AHMS8-1.25#PBF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="DNC" type="BiDi"/>
+        <pin num="2" name="VIN" type="BiDi"/>
+        <pin num="3" name="~SHDN" type="BiDi"/>
+        <pin num="4" name="GND" type="BiDi"/>
+        <pin num="5" name="GND_1" type="BiDi"/>
+        <pin num="6" name="VOUT" type="BiDi"/>
+        <pin num="7" name="GND_2" type="BiDi"/>
+        <pin num="8" name="GND_3" type="BiDi"/>
+      </pins>
+    </libpart>
+    <libpart lib="LTC6652AHMS8-2.5#PBF" part="LTC6652AHMS8-2.5#PBF">
+      <description>LTC6652AHMS8-2.5#PBF, Voltage Reference 2.5V 0.05% 5mA 13.2 V max. 8-Pin MSOP</description>
+      <docs>http://cds.linear.com/docs/en/datasheet/6652fe.pdf</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">LTC6652AHMS8-2.5#PBF</field>
+        <field name="Footprint">SOP65P490X110-8N</field>
+        <field name="Datasheet">http://cds.linear.com/docs/en/datasheet/6652fe.pdf</field>
+        <field name="Description">LTC6652AHMS8-2.5#PBF, Voltage Reference 2.5V 0.05% 5mA 13.2 V max. 8-Pin MSOP</field>
+        <field name="Height">1.1</field>
+        <field name="Manufacturer_Name">Linear Technology</field>
+        <field name="Manufacturer_Part_Number">LTC6652AHMS8-2.5#PBF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="DNC" type="BiDi"/>
+        <pin num="2" name="VIN" type="BiDi"/>
+        <pin num="3" name="~SHDN" type="BiDi"/>
+        <pin num="4" name="GND" type="BiDi"/>
+        <pin num="5" name="GND_1" type="BiDi"/>
+        <pin num="6" name="VOUT" type="BiDi"/>
+        <pin num="7" name="GND_2" type="BiDi"/>
+        <pin num="8" name="GND_3" type="BiDi"/>
+      </pins>
+    </libpart>
+    <libpart lib="LTC6915HGN#PBF" part="LTC6915HGN#PBF">
+      <description>Instrumentation Amp +/-5.5V/11V R-R SSOP Linear Technology LTC6915HGN#PBF Instrumentation Amplifier,  /-10uV Offset 200kHz GBW, CMMR 85dB, 2.7 V, 16-Pin SSOP</description>
+      <docs>https://componentsearchengine.com/Datasheets/1/LTC6915HGN#PBF.pdf</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">LTC6915HGN#PBF</field>
+        <field name="Footprint">SOP64P601X175-16N</field>
+        <field name="Datasheet">https://componentsearchengine.com/Datasheets/1/LTC6915HGN#PBF.pdf</field>
+        <field name="Description">Instrumentation Amp +/-5.5V/11V R-R SSOP Linear Technology LTC6915HGN#PBF Instrumentation Amplifier,  /-10uV Offset 200kHz GBW, CMMR 85dB, 2.7 V, 16-Pin SSOP</field>
+        <field name="Height">1.75</field>
+        <field name="Mouser Part Number">584-LTC6915HGN#PBF</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=584-LTC6915HGN%23PBF</field>
+        <field name="Manufacturer_Name">Linear Technology</field>
+        <field name="Manufacturer_Part_Number">LTC6915HGN#PBF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="SHDN" type="BiDi"/>
+        <pin num="2" name="IN-" type="BiDi"/>
+        <pin num="3" name="IN+" type="BiDi"/>
+        <pin num="4" name="V-" type="BiDi"/>
+        <pin num="5" name="HOLD_~THRU" type="BiDi"/>
+        <pin num="6" name="~CS(D0)" type="BiDi"/>
+        <pin num="7" name="DIN(D1)" type="BiDi"/>
+        <pin num="8" name="CLK(D2)" type="BiDi"/>
+        <pin num="9" name="DOUT(D3)" type="BiDi"/>
+        <pin num="10" name="DGND" type="BiDi"/>
+        <pin num="11" name="PARALLEL_~SERIAL" type="BiDi"/>
+        <pin num="12" name="NC" type="BiDi"/>
+        <pin num="13" name="REF" type="BiDi"/>
+        <pin num="14" name="SENSE" type="BiDi"/>
+        <pin num="15" name="OUT" type="BiDi"/>
+        <pin num="16" name="V+" type="BiDi"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="L7805">
+      <aliases>
+        <alias>L7806</alias>
+        <alias>L7808</alias>
+        <alias>L7885</alias>
+        <alias>L7809</alias>
+        <alias>L7812</alias>
+        <alias>L7815</alias>
+        <alias>L7818</alias>
+        <alias>L7824</alias>
+      </aliases>
+      <description>Positive 1.5A 35V Linear Regulator, Fixed Output 5V, TO-220/TO-263/TO-252</description>
+      <docs>http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf</docs>
+      <footprints>
+        <fp>TO?252*</fp>
+        <fp>TO?263*</fp>
+        <fp>TO?220*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">L7805</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="OUT" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="L7905">
+      <aliases>
+        <alias>L7908</alias>
+        <alias>L7912</alias>
+        <alias>L7915</alias>
+        <alias>MC7905</alias>
+        <alias>MC7905.2</alias>
+        <alias>MC7906</alias>
+        <alias>MC7908</alias>
+        <alias>MC7912</alias>
+        <alias>MC7915</alias>
+        <alias>MC7918</alias>
+        <alias>MC7924</alias>
+      </aliases>
+      <description>Negative 1.5A 35V Linear Regulator, Fixed Output -5V, TO-220/TO-263</description>
+      <docs>http://www.st.com/content/ccc/resource/technical/document/datasheet/c9/16/86/41/c7/2b/45/f2/CD00000450.pdf/files/CD00000450.pdf/jcr:content/translations/en.CD00000450.pdf</docs>
+      <footprints>
+        <fp>TO?220*</fp>
+        <fp>TO?263*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">L7905</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VI" type="power_in"/>
+        <pin num="3" name="VO" type="power_out"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="AD7177-2BRUZ">
+      <uri>/home/twoninefour/hdd/kicadLibs/AD7177-2BRUZ/KiCad/AD7177-2BRUZ.lib</uri>
+    </library>
+    <library logical="AD8428BRZ-RL">
+      <uri>/home/twoninefour/hdd/kicadLibs/AD8428/AD8428BRZ-RL.lib</uri>
+    </library>
+    <library logical="Connector">
+      <uri>/usr/share/kicad/library/Connector.lib</uri>
+    </library>
+    <library logical="Device">
+      <uri>/usr/share/kicad/library/Device.lib</uri>
+    </library>
+    <library logical="LTC6652AHMS8-1.25#PBF">
+      <uri>/home/twoninefour/hdd/kicadLibs/LTC6652AHMS8-1.25#PBF/KiCad/LTC6652AHMS8-1.25#PBF.lib</uri>
+    </library>
+    <library logical="LTC6652AHMS8-2.5#PBF">
+      <uri>/home/twoninefour/hdd/kicadLibs/LTC6652AHMS8-2.5#PBF/KiCad/LTC6652AHMS8-2.5#PBF.lib</uri>
+    </library>
+    <library logical="LTC6915HGN#PBF">
+      <uri>/home/twoninefour/hdd/kicadLibs/LTC6915HGN#PBF/KiCad/LTC6915HGN#PBF.lib</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>/usr/share/kicad/library/Regulator_Linear.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="gnd">
+      <node ref="C55" pin="2"/>
+      <node ref="J1" pin="9"/>
+      <node ref="C17" pin="2"/>
+      <node ref="C5" pin="2"/>
+      <node ref="C47" pin="1"/>
+      <node ref="C29" pin="2"/>
+      <node ref="C41" pin="2"/>
+      <node ref="C36" pin="2"/>
+      <node ref="IC1" pin="5"/>
+      <node ref="IC1" pin="7"/>
+      <node ref="IC1" pin="8"/>
+      <node ref="IC1" pin="4"/>
+      <node ref="C23" pin="2"/>
+      <node ref="TH1" pin="2"/>
+      <node ref="TH2" pin="2"/>
+      <node ref="C27" pin="2"/>
+      <node ref="C30" pin="2"/>
+      <node ref="C1" pin="2"/>
+      <node ref="C18" pin="2"/>
+      <node ref="C31" pin="2"/>
+      <node ref="C13" pin="2"/>
+      <node ref="C43" pin="2"/>
+      <node ref="C7" pin="2"/>
+      <node ref="C38" pin="2"/>
+      <node ref="C8" pin="2"/>
+      <node ref="IC7" pin="6"/>
+      <node ref="C35" pin="1"/>
+      <node ref="C40" pin="2"/>
+      <node ref="BT2" pin="1"/>
+      <node ref="BT1" pin="2"/>
+      <node ref="IC7" pin="2"/>
+      <node ref="C54" pin="1"/>
+      <node ref="IC8" pin="10"/>
+      <node ref="IC8" pin="11"/>
+      <node ref="C48" pin="1"/>
+      <node ref="C49" pin="1"/>
+      <node ref="C50" pin="1"/>
+      <node ref="C44" pin="2"/>
+      <node ref="C45" pin="2"/>
+      <node ref="C42" pin="2"/>
+      <node ref="C37" pin="2"/>
+      <node ref="C32" pin="2"/>
+      <node ref="C46" pin="2"/>
+      <node ref="C39" pin="2"/>
+      <node ref="IC7" pin="17"/>
+      <node ref="IC8" pin="4"/>
+      <node ref="C33" pin="1"/>
+      <node ref="C34" pin="1"/>
+      <node ref="R1" pin="1"/>
+      <node ref="C14" pin="2"/>
+      <node ref="C25" pin="2"/>
+      <node ref="C9" pin="2"/>
+      <node ref="C15" pin="2"/>
+      <node ref="C20" pin="2"/>
+      <node ref="IC2" pin="7"/>
+      <node ref="C24" pin="2"/>
+      <node ref="C21" pin="2"/>
+      <node ref="C26" pin="1"/>
+      <node ref="IC2" pin="4"/>
+      <node ref="IC2" pin="8"/>
+      <node ref="IC2" pin="5"/>
+      <node ref="C28" pin="2"/>
+      <node ref="C16" pin="2"/>
+      <node ref="C10" pin="2"/>
+      <node ref="C6" pin="2"/>
+      <node ref="C12" pin="1"/>
+      <node ref="C22" pin="1"/>
+      <node ref="U2" pin="1"/>
+      <node ref="U1" pin="2"/>
+      <node ref="C11" pin="2"/>
+      <node ref="C19" pin="2"/>
+      <node ref="C2" pin="2"/>
+      <node ref="C51" pin="1"/>
+      <node ref="C4" pin="1"/>
+      <node ref="C3" pin="2"/>
+      <node ref="C53" pin="2"/>
+    </net>
+    <net code="2" name="Net-(IC4-Pad7)">
+      <node ref="IC4" pin="7"/>
+    </net>
+    <net code="3" name="1.25v">
+      <node ref="C55" pin="1"/>
+      <node ref="IC3" pin="6"/>
+      <node ref="IC8" pin="13"/>
+      <node ref="IC5" pin="6"/>
+      <node ref="C47" pin="2"/>
+      <node ref="IC8" pin="2"/>
+      <node ref="C53" pin="1"/>
+      <node ref="IC6" pin="6"/>
+      <node ref="IC7" pin="21"/>
+      <node ref="C45" pin="1"/>
+      <node ref="C46" pin="1"/>
+      <node ref="C28" pin="1"/>
+      <node ref="C52" pin="2"/>
+      <node ref="C6" pin="1"/>
+      <node ref="IC2" pin="6"/>
+      <node ref="C24" pin="1"/>
+      <node ref="C5" pin="1"/>
+      <node ref="IC4" pin="6"/>
+    </net>
+    <net code="4" name="-5v">
+      <node ref="C10" pin="1"/>
+      <node ref="IC3" pin="5"/>
+      <node ref="U2" pin="3"/>
+      <node ref="C14" pin="1"/>
+      <node ref="C16" pin="1"/>
+      <node ref="C32" pin="1"/>
+      <node ref="C8" pin="1"/>
+      <node ref="C44" pin="1"/>
+      <node ref="IC4" pin="5"/>
+      <node ref="C39" pin="1"/>
+      <node ref="IC6" pin="5"/>
+      <node ref="C22" pin="2"/>
+      <node ref="IC5" pin="5"/>
+      <node ref="C20" pin="1"/>
+      <node ref="C26" pin="2"/>
+      <node ref="C18" pin="1"/>
+      <node ref="C42" pin="1"/>
+      <node ref="C37" pin="1"/>
+      <node ref="C30" pin="1"/>
+    </net>
+    <net code="5" name="-9v">
+      <node ref="C12" pin="2"/>
+      <node ref="C4" pin="2"/>
+      <node ref="U2" pin="2"/>
+    </net>
+    <net code="6" name="Net-(IC5-Pad7)">
+      <node ref="IC5" pin="7"/>
+    </net>
+    <net code="7" name="Net-(IC3-Pad3)">
+      <node ref="IC3" pin="3"/>
+      <node ref="IC4" pin="3"/>
+      <node ref="IC5" pin="3"/>
+      <node ref="IC6" pin="3"/>
+    </net>
+    <net code="8" name="Net-(IC3-Pad2)">
+      <node ref="IC4" pin="2"/>
+      <node ref="IC3" pin="2"/>
+      <node ref="IC6" pin="2"/>
+      <node ref="IC5" pin="2"/>
+    </net>
+    <net code="9" name="5v">
+      <node ref="C13" pin="1"/>
+      <node ref="C48" pin="2"/>
+      <node ref="C7" pin="1"/>
+      <node ref="C17" pin="1"/>
+      <node ref="IC3" pin="8"/>
+      <node ref="IC7" pin="7"/>
+      <node ref="IC8" pin="16"/>
+      <node ref="C25" pin="1"/>
+      <node ref="IC7" pin="16"/>
+      <node ref="IC7" pin="8"/>
+      <node ref="C21" pin="1"/>
+      <node ref="U1" pin="3"/>
+      <node ref="IC4" pin="8"/>
+      <node ref="IC6" pin="8"/>
+      <node ref="C15" pin="1"/>
+      <node ref="C9" pin="1"/>
+      <node ref="C19" pin="1"/>
+      <node ref="C36" pin="1"/>
+      <node ref="C40" pin="1"/>
+      <node ref="C41" pin="1"/>
+      <node ref="C29" pin="1"/>
+      <node ref="C38" pin="1"/>
+      <node ref="C43" pin="1"/>
+      <node ref="C31" pin="1"/>
+      <node ref="IC5" pin="8"/>
+      <node ref="C54" pin="2"/>
+    </net>
+    <net code="10" name="Net-(IC2-Pad1)">
+      <node ref="IC2" pin="1"/>
+    </net>
+    <net code="11" name="9v">
+      <node ref="C2" pin="1"/>
+      <node ref="IC2" pin="3"/>
+      <node ref="IC2" pin="2"/>
+      <node ref="U1" pin="1"/>
+      <node ref="IC1" pin="2"/>
+      <node ref="C3" pin="1"/>
+      <node ref="C1" pin="1"/>
+      <node ref="C11" pin="1"/>
+      <node ref="IC1" pin="3"/>
+    </net>
+    <net code="12" name="Net-(IC1-Pad1)">
+      <node ref="IC1" pin="1"/>
+    </net>
+    <net code="13" name="2.5v">
+      <node ref="IC1" pin="6"/>
+      <node ref="R3" pin="1"/>
+      <node ref="C27" pin="1"/>
+      <node ref="R2" pin="1"/>
+      <node ref="IC7" pin="3"/>
+      <node ref="C23" pin="1"/>
+      <node ref="C35" pin="2"/>
+    </net>
+    <net code="14" name="g_cs">
+      <node ref="J1" pin="8"/>
+      <node ref="IC8" pin="6"/>
+    </net>
+    <net code="15" name="g_din">
+      <node ref="IC8" pin="7"/>
+      <node ref="J1" pin="7"/>
+    </net>
+    <net code="16" name="g_clk">
+      <node ref="IC8" pin="8"/>
+      <node ref="J1" pin="6"/>
+    </net>
+    <net code="17" name="Net-(IC7-Pad11)">
+      <node ref="IC7" pin="11"/>
+      <node ref="J1" pin="5"/>
+    </net>
+    <net code="18" name="Net-(IC7-Pad14)">
+      <node ref="J1" pin="2"/>
+      <node ref="IC7" pin="14"/>
+    </net>
+    <net code="19" name="Net-(IC3-Pad4)">
+      <node ref="IC4" pin="4"/>
+      <node ref="IC6" pin="4"/>
+      <node ref="IC5" pin="4"/>
+      <node ref="IC3" pin="4"/>
+      <node ref="TC1" pin="1"/>
+    </net>
+    <net code="20" name="Net-(IC3-Pad1)">
+      <node ref="IC5" pin="1"/>
+      <node ref="IC3" pin="1"/>
+      <node ref="IC6" pin="1"/>
+      <node ref="TC1" pin="2"/>
+      <node ref="IC4" pin="1"/>
+      <node ref="R1" pin="2"/>
+    </net>
+    <net code="21" name="Net-(C33-Pad2)">
+      <node ref="C33" pin="2"/>
+      <node ref="C34" pin="2"/>
+      <node ref="IC7" pin="5"/>
+    </net>
+    <net code="22" name="adc_in">
+      <node ref="C51" pin="2"/>
+      <node ref="C52" pin="1"/>
+      <node ref="IC8" pin="14"/>
+      <node ref="IC8" pin="15"/>
+      <node ref="IC7" pin="22"/>
+    </net>
+    <net code="23" name="Net-(IC8-Pad9)">
+      <node ref="IC8" pin="9"/>
+    </net>
+    <net code="24" name="Net-(IC7-Pad15)">
+      <node ref="J1" pin="1"/>
+      <node ref="IC7" pin="15"/>
+    </net>
+    <net code="25" name="Net-(IC7-Pad12)">
+      <node ref="J1" pin="4"/>
+      <node ref="IC7" pin="12"/>
+    </net>
+    <net code="26" name="Net-(IC8-Pad12)">
+      <node ref="IC8" pin="12"/>
+    </net>
+    <net code="27" name="Net-(C49-Pad2)">
+      <node ref="IC7" pin="18"/>
+      <node ref="C50" pin="2"/>
+      <node ref="C49" pin="2"/>
+    </net>
+    <net code="28" name="Net-(IC7-Pad4)">
+      <node ref="IC7" pin="4"/>
+    </net>
+    <net code="29" name="Net-(IC7-Pad1)">
+      <node ref="IC7" pin="1"/>
+    </net>
+    <net code="30" name="9V">
+      <node ref="BT1" pin="1"/>
+    </net>
+    <net code="31" name="-9V">
+      <node ref="BT2" pin="2"/>
+    </net>
+    <net code="32" name="Net-(IC3-Pad7)">
+      <node ref="IC3" pin="7"/>
+    </net>
+    <net code="33" name="Net-(IC8-Pad5)">
+      <node ref="IC8" pin="5"/>
+    </net>
+    <net code="34" name="g2000">
+      <node ref="IC8" pin="3"/>
+      <node ref="IC6" pin="7"/>
+    </net>
+    <net code="35" name="Net-(IC8-Pad1)">
+      <node ref="IC8" pin="1"/>
+    </net>
+    <net code="36" name="Net-(IC7-Pad19)">
+      <node ref="IC7" pin="19"/>
+    </net>
+    <net code="37" name="Net-(IC7-Pad20)">
+      <node ref="IC7" pin="20"/>
+    </net>
+    <net code="38" name="Net-(IC7-Pad10)">
+      <node ref="IC7" pin="10"/>
+    </net>
+    <net code="39" name="Net-(IC7-Pad9)">
+      <node ref="IC7" pin="9"/>
+    </net>
+    <net code="40" name="Net-(IC7-Pad13)">
+      <node ref="J1" pin="3"/>
+      <node ref="IC7" pin="13"/>
+    </net>
+    <net code="41" name="temp2">
+      <node ref="IC7" pin="23"/>
+      <node ref="R3" pin="2"/>
+      <node ref="TH2" pin="1"/>
+    </net>
+    <net code="42" name="temp1">
+      <node ref="IC7" pin="24"/>
+      <node ref="R2" pin="2"/>
+      <node ref="TH1" pin="1"/>
+    </net>
+  </nets>
+</export>
